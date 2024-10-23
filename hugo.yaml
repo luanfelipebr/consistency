@@ -2,4 +2,6 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Luan Felipe
 
-theme: hugo-theme-stack
+theme: ["hugo-theme-stack"]
+
+ignoreErrors: ["error-remote-getjson"]
