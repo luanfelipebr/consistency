@@ -215,19 +215,19 @@ menu:
         icon: brand-github
       newTab: true
 
-    - identifier: instagram
-      name: Instagram
-      url: https://instagram.com/luanfr
-      params:
-        icon: brand-instagram
-      newTab: true
+    # - identifier: instagram
+    #   name: Instagram
+    #   url: https://instagram.com/luanfr
+    #   params:
+    #     icon: brand-instagram
+    #   newTab: true
 
-    - identifier: youtube
-      name: YouTube
-      url: https://youtube.com/@luanfr
-      params:
-        icon: brand-youtube
-      newTab: true
+    # - identifier: youtube
+    #   name: YouTube
+    #   url: https://youtube.com/@luanfr
+    #   params:
+    #     icon: brand-youtube
+    #   newTab: true
 
 related:
   includeNewer: true
