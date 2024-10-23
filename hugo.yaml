@@ -14,12 +14,20 @@ hasCJKLanguage: false
 
 languages:
   pt-br:
-    languageName: English
-    title: Example Site
+    languageName: Português
+    title: Luan Felipe
     weight: 1
     params:
       sidebar:
-        subtitle: Example description
+        subtitle: consistency.
+
+  en:
+    languageName: English
+    title: Luan Felipe
+    weight: 2
+    params:
+      sidebar:
+        subtitle: consistency.
 
 services:
   # Change it to your Disqus shortname before using
@@ -52,12 +60,12 @@ params:
     lastUpdated: Jan 02, 2006 15:04 MST
 
   sidebar:
-    emoji: 🍥
+    emoji: 🍃
     subtitle: consistency.
     avatar:
       enabled: true
       local: true
-      src: img/avatar.png
+      src: img/root/avatar.jpeg
 
   article:
     math: false
@@ -202,15 +210,24 @@ menu:
   social:
     - identifier: github
       name: GitHub
-      url: https://github.com/CaiJimmy/hugo-theme-stack
+      url: https://github.com/luanfelipebr
       params:
         icon: brand-github
+      newTab: true
 
-    - identifier: twitter
-      name: Twitter
-      url: https://twitter.com
+    - identifier: instagram
+      name: Instagram
+      url: https://instagram.com/luanfr
       params:
-        icon: brand-twitter
+        icon: brand-instagram
+      newTab: true
+
+    - identifier: youtube
+      name: YouTube
+      url: https://youtube.com/@luanfr
+      params:
+        icon: brand-youtube
+      newTab: true
 
 related:
   includeNewer: true
