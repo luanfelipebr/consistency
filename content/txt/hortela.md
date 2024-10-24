@@ -1,14 +1,14 @@
 ---
 author: "Hugo Authors"
 title: "Hortelã"
-date: "2020-03-11"
+date: "2021-07-29"
 description: "Uma carta aberta à hortelã, explorando a metáfora de um jardim para refletir sobre relacionamentos, crescimento pessoal e a busca pelo equilíbrio na vida."
 draft: false
 tags: ["amor", "término"]
 categories: ["relacionamentos"]
 series: ["textos"]
 aliases: ["hortela"]
-image: "https://luanfr.me/wp-content/uploads/2021/07/hortela.jpg"
+image: "img/txt/hortela.jpg"
 ---
 
 Querido hortelã,
