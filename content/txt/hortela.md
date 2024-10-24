@@ -11,159 +11,20 @@ aliases: ["hortela"]
 image: "https://luanfr.me/wp-content/uploads/2021/07/hortela.jpg"
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Querido hortelã,
 
-<!--more-->
+Admirei o seu verde. Não tinha como ignorar a sua presença. As folhas eram fortes, escuras e acompanhadas de ramificações a procura de espaço no jardim. Você se espalhava com prazer, sem dificuldade e sem pudores pela terra toda. E que cheiro maravilhoso, hortelã! Minha respiração aliviava quando eu te prendia nos dedos e cheirava logo em seguida. Invadia meu peito expandindo reação a menta sutil que se intensificava conforme eu mexia as mãos. Ainda nem falei de seu gosto...
 
-## Headings
+Sabe, te por na boca era complicado descrever. O hálito mudava primeiro. Minha saliva ficava suave e só havia a vontade de permanecer com você nos lábios. Quando te misturava com outros elementos, ainda te percebia mesmo tímido. Te sentia nas sombras dos sucos que tomei, dos coquetéis que elaborei. Seu gosto se tornou necessidade em todo gole.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Minha terra não era farta, mas tinha espaço. No começo você conquistou, se espalhou lento sobre as miúdas rosas plantadas. Suaves como seu gosto. Suas raízes eram profundas e mais rápidas do que suas folhas, então me enganei com seu tamanho. Quando vi, transformei sua conquista em dependência. As primeiras limitações de espaço feitas por mim foram ineficazes. Eu cortava, arrancava, suplicava. Perdi espaço no jardim sufocando camomilas, cidreiras e erva doces.
 
-# H1
+Hortelã, por muito custo entendi o significado de tê-lo em meu jardim. Me deixei anular com seu aroma perfeito e gosto. Assim, não consegui dar conta das necessidades da minha terra. Ela era toda sua. Suas folhas tamparam o sol que poderia acordar outras sementes. Suas raízes sugavam os nutrientes para si. Sua liberdade somada a minha presença anulada te transformavam em uma erva daninha sedutora demais para que eu deixasse minhas paranoias de lado. Fui me deixando ficar ali: parado, com frio e sendo vítima de mim mesmo.
 
-## H2
+Quando percebi, já não havia mais espaço. Não havia nutrientes em minha terra ou qualquer outra planta que quisesse se manter naquele lugar. Só havia você, suas ramificações e suas necessidades. Meu hálito agora ecoava os medos que eu não conseguia expressar. Cada vez com seu gosto distante e o meu mais próximo, bafo sem vida. Com isso, você escolheu partir. Daquele jardim nada se tinha que pudesse extrair. Não que naquele momento fosse apenas o que você quisesse, mas sim de que serve um jardim sem diversidade?
 
-### H3
+O problema de jardim com hortelã é que, mesmo se as folhas sequem, as raízes permanecem. Quando hidratadas com atenção novamente, as folhas voltam. A terra precisa ser inteira trocada para que o ciclo não se repita e não há esse processo sem dor.
 
-#### H4
+Hoje, hortelã, sei que o problema não foi o meu jardim. Muito menos suas raízes. Há espaço para diversidade nos pequenos lugares. Você, com suas características, precisava apenas ter sido plantado em um lugarzinho seu. Suas folhas tocariam outros pontos, suas ramificações explorariam a proximidade com outras plantas. Porém, suas raízes jamais roubariam espaços que não fossem seu. Até hoje te procuro mesmo não sabendo se teus sabores estarão por ai. E com o passar do tempo, eles deixaram mesmo de estar.
 
-##### H5
-
-###### H6
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
-
-#### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-| A                                                        | B                                                                                                             | C                                                                                                                                    | D                                                 | E                                                          | F                                                                    |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------- |
-| Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-#### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-
-{{< highlight html >}}
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-#### Diff code block
-
-```diff
-[dependencies.bevy]
-git = "https://github.com/bevyengine/bevy"
-rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
-- features = ["dynamic"]
-+ features = ["jpeg", "dynamic"]
-```
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-- List item
-- Another item
-- And another item
-
-#### Nested list
-
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
-## Hyperlinked image
-
-[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)](https://google.com)
+> Fotografia de [Felipe Fonseca](https://www.flickr.com/photos/felipefonseca/2850669239/).
