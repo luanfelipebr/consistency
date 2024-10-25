@@ -67,7 +67,7 @@ params:
     avatar:
       enabled: true
       local: true
-      src: ./img/root/avatar.jpeg
+      src: ./images/root/avatar.jpeg
 
   article:
     math: false
