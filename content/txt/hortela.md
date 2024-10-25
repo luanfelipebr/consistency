@@ -8,7 +8,7 @@ tags: ["amor", "término"]
 categories: ["relacionamentos"]
 series: ["textos"]
 aliases: ["hortela"]
-image: "./img/txt/hortela.jpg"
+image: "img/hortela.jpg"
 ---
 
 Querido hortelã,
