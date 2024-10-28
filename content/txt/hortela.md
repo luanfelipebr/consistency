@@ -1,5 +1,5 @@
 ---
-author: "Hugo Authors"
+author: "Luan Felipe"
 title: "Hortelã"
 date: "2021-07-29"
 description: "Uma carta aberta à hortelã, explorando a metáfora de um jardim para refletir sobre relacionamentos, crescimento pessoal e a busca pelo equilíbrio na vida."
